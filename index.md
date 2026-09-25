@@ -1,35 +1,47 @@
 Privacy Policy
 Last updated: 25 September 2026
 
-[Business Name] ("we", "us") operates a WhatsApp business number (+91 99885 40564).
-This policy explains what we collect when you message us and how we use it.
+We provide WhatsApp-based lead capture, customer
+support and messaging automation for businesses. This policy explains what
+information we handle when you message a WhatsApp number we operate, on our
+own behalf or on behalf of a business client.
 
-1. What we collect
+1. Information we collect
 - Your WhatsApp phone number and profile name.
-- The messages you send us, including your answers to our questions (such as your line of business).
+- Messages you send and the answers you give to questions (for example
+  your name, line of business, or booking details).
+- Basic usage data such as message timestamps and delivery status.
 
 2. How we use it
-- To reply to your enquiry and follow up about our WhatsApp bot and automation services.
-- To keep a record of enquiries so we can contact you.
+- To reply to you and respond to your enquiry.
+- To record enquiries and bookings so the business can follow up.
+- To send messages you have agreed to receive, such as updates, reminders
+  or promotions from a business you opted in with.
 
-3. Sharing
-We do not sell your data. We do not share it with third parties, except service providers
-that host our systems (WhatsApp/Meta, our cloud hosting and database providers), who
-process it only to run the service.
+3. Business clients
+When you message a business that uses our service, that business decides
+why your information is collected and we process it on its behalf. Their
+privacy practices also apply to your data.
 
-4. Retention
-We keep enquiry records only as long as needed to follow up. You can ask us to delete
-your data at any time.
+4. Promotional messages and opt-out
+We only send promotional messages to people who have opted in. Reply STOP
+at any time to stop receiving them.
 
-5. Your rights
-To see, correct or delete your data, email [your email] or message us on WhatsApp
-and we will act within 30 days.
+5. Sharing
+We do not sell your data. We share it only with the business you contacted
+and with providers that run our service (Meta/WhatsApp, cloud hosting and
+database providers), who may process it only to provide the service.
 
-6. Security
+6. Retention and deletion
+We keep data only as long as needed for the purposes above. To access,
+correct or delete your data, email [your email]; we will respond within
+30 days.
+
+7. Security
 Data is stored on access-controlled systems. No method is perfectly secure,
 but we take reasonable steps to protect it.
 
-7. Changes
-We may update this policy. The date above shows the latest version.
+8. Changes
+We may update this policy; the date above shows the latest version.
 
-Contact: [Business Name], [your email], +91 99885 40564
+Contact: rahuljain0831@gmail.com
